@@ -6,7 +6,7 @@
 <h3 align="center">Hello Fellow &lt;Coders /&gt;! 👋</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Asam Nivedha&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -14,8 +14,8 @@
 ### 📈 Contribution Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asam_Nivedha&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asam_Nivedha&theme=radical" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ### 🐍 Let the Snake eat my Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Asam_Nivedha/Asam_Nivedha/output/github-contribution-grid-snake.svg" />
 </p>
 
 > Set up with a GitHub Action — see `snake.yml` below. It regenerates automatically on a schedule.
@@ -53,9 +53,9 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/asam-nivedha-19a156290?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/asam_nivedha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
