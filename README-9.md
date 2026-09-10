@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/coding-room-banner.webp" width="600" />
+  <img src="assets/coding-room-banner.gif" width="600" />
 </p>
 
 <h3 align="center">Hello Fellow &lt;Coders /&gt;! 👋</h3>
