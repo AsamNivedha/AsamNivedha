@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/coding-room-banner.mp4" width="600" />
+  <iframe src="assets/coding-room-banner.mp4" width="600"> </iframe>
 </p>
 
 <h3 align="center">Hello Fellow &lt;Coders /&gt;! 👋</h3>
